@@ -27,7 +27,7 @@ A simple RESTful API built using **Node.js**, **Express.js**, and **MongoDB** wi
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/LuckIsDestiny/NodeJS-Express-Project.git](https://github.com/LuckIsDestiny/NodeJS-Express-Project.git)
+   git clone https://github.com/LuckIsDestiny/NodeJS-Express-Project.git
    cd products-api
    ```
 
